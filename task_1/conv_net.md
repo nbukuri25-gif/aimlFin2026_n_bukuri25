@@ -284,3 +284,4 @@ All visualizations shown above are generated automatically by the script.
 This work demonstrates how Convolutional Neural Networks can be applied in cybersecurity by transforming traffic statistics into image representations. CNNs effectively learn burst and spike patterns typical for DDoS attacks without relying on fixed thresholds. The model architecture is efficient and achieves strong classification performance on the generated dataset.
 
 This approach illustrates how deep learning techniques can enhance anomaly detection systems beyond traditional rule-based mechanisms.
+
